@@ -1,0 +1,38 @@
+body {
+    display:flex;
+    justify-content: center;
+    background: #032779d0;
+    margin: 0;
+    font-size: 120%;
+}
+
+#cityData{
+  color : black;
+}
+
+.card {
+    background: white;
+    color: blue;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 4em;
+  }
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  hr.solid {
+    border-top: 3px solid rgb(21, 146, 205);
+  }
+
+  .geolocation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
